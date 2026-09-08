@@ -7,4 +7,4 @@ https://www.youtube.com/
 1. *Italic* text.
 2. **Bold** Text. 
 
-print("hej smukke")
+print("hello world")
