@@ -7,4 +7,3 @@ https://www.youtube.com/
 1. *Italic* text.
 2. **Bold** Text. 
 
-print("hello world2")
