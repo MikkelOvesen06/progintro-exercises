@@ -48,6 +48,28 @@ float temp_fahrenheit = 32 + (9/5*temp_celcius);
 Console.WriteLine("Temperaturen bliver " + temp_fahrenheit);
 
 //Opgave 5.14
+float monday = 21.5f;
+float tuesday = 23.7f;
+float wednesday = 19.6f;
+float thursday = 22.5f;
+float friday = 25.3f;
+float saturday = 21.7f;
+float sunday = 18.9f;
+
+float result1 = tuesday - monday;
+Console.WriteLine(result1);
+float result2 = wednesday - tuesday;
+Console.WriteLine(result2);
+float result3 = thursday - wednesday;
+Console.WriteLine(result3);
+float result4 = friday - thursday;
+Console.WriteLine(result4);
+float result5 = saturday - friday;
+Console.WriteLine(result5);
+float result6 = sunday - saturday;
+Console.WriteLine(result6);
+
+
 
 
 
