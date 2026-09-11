@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikke\\OneDrive\\1. semester\\Intro_OOP_SDU\\Intro\\Intro.csproj": {}
+    "C:\\Users\\mikke\\OneDrive\\SDU Software Diplom\\Intro_OOP_SDU\\Intro\\Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikke\\OneDrive\\1. semester\\Intro_OOP_SDU\\Intro\\Intro.csproj": {
+    "C:\\Users\\mikke\\OneDrive\\SDU Software Diplom\\Intro_OOP_SDU\\Intro\\Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikke\\OneDrive\\1. semester\\Intro_OOP_SDU\\Intro\\Intro.csproj",
+        "projectUniqueName": "C:\\Users\\mikke\\OneDrive\\SDU Software Diplom\\Intro_OOP_SDU\\Intro\\Intro.csproj",
         "projectName": "Intro",
-        "projectPath": "C:\\Users\\mikke\\OneDrive\\1. semester\\Intro_OOP_SDU\\Intro\\Intro.csproj",
+        "projectPath": "C:\\Users\\mikke\\OneDrive\\SDU Software Diplom\\Intro_OOP_SDU\\Intro\\Intro.csproj",
         "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikke\\OneDrive\\1. semester\\Intro_OOP_SDU\\Intro\\obj\\",
+        "outputPath": "C:\\Users\\mikke\\OneDrive\\SDU Software Diplom\\Intro_OOP_SDU\\Intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
